@@ -1,2 +1,9 @@
 # SDG-Indicator-1121
-Computing SDG Indicator 11.2.1 using global open data
+
+About: 
+
+Improving access to public transport services is integral in achieving the objectives of SDG 11. According to the UN [Sustainable Transport, Sustainable Development 2021 interagency report, “only about half the world’s urban population have convenient access to public transport.”](https://sdgs.un.org/sites/default/files/2021-10/Transportation%20Report%202021_FullReport_Digital.pdf) The report highlights that access to sustainable transport can help reduce food insecurity, boost economies, empower women, and connect people to key health, education, and finance services. As one measure of progress, the UN has established [SDG Indicator 11.2.1](https://unstats.un.org/sdgs/metadata/?Text=&Goal=&Target=11.2): “Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities.” 
+
+The UN [SDG Indicator 11.2.1 metadata](https://unstats.un.org/sdgs/metadata/files/Metadata-11-02-01.pdf) characterizes convenient access to public transport as either .5 km walking distance to a low-capacity public transport point or 1 km walking distance to a high-capacity public transport point. Using global open data, CIESIN computed SDG Indicator 11.2.1 for 5,749 urban centers across 178 countries. Urban center extents and identifying names from the European Commission's Joint Research Center’s [Urban Center Database (UCDB](https://ghsl.jrc.ec.europa.eu/ucdb2018Overview.php) were used in the production of this data set. 
+
+This work was completed in support of the [Group on Earth Observations (GEO)](https://earthobservations.org/index.php) [Human Planet Initiative (HPI)](https://ghsl.jrc.ec.europa.eu/HPI.php). CIESIN plans to update the SDG Indicator 11.2.1: Urban Access to Public Transport data set annually to help countries track their progress towards SDG 11 and to facilitate international comparisons. 

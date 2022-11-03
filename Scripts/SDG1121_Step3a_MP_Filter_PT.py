@@ -1,7 +1,8 @@
+#James Gibson
 #06/07/2022
 
-#SDG 11.2.1
-#Step 3: Buffer public transport
+#SDG Indicator 11.2.1
+#Step 3: Buffer public transport 
 
 #UN Metadata was updated 09/2021
 #The access to public transport is considered convenient when a stop is
